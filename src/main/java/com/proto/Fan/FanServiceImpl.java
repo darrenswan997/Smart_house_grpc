@@ -3,8 +3,8 @@
 
 package com.proto.Fan;
 
-public final class Fan {
-  private Fan() {}
+public final class FanServiceImpl {
+  private FanServiceImpl() {}
   public static void registerAllExtensions(
       com.google.protobuf.ExtensionRegistryLite registry) {
   }

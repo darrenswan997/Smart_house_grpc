@@ -4,11 +4,11 @@
 package com.proto.Fan;
 
 /**
- * Protobuf type {@code Fan.GetSpeedRequest}
+ * Protobuf type {@code GetSpeedRequest}
  */
 public  final class GetSpeedRequest extends
     com.google.protobuf.GeneratedMessageV3 implements
-    // @@protoc_insertion_point(message_implements:Fan.GetSpeedRequest)
+    // @@protoc_insertion_point(message_implements:GetSpeedRequest)
     GetSpeedRequestOrBuilder {
 private static final long serialVersionUID = 0L;
   // Use GetSpeedRequest.newBuilder() to construct.
@@ -75,13 +75,13 @@ private static final long serialVersionUID = 0L;
   }
   public static final com.google.protobuf.Descriptors.Descriptor
       getDescriptor() {
-    return com.proto.Fan.Fan.internal_static_Fan_GetSpeedRequest_descriptor;
+    return com.proto.Fan.Fan.internal_static_GetSpeedRequest_descriptor;
   }
 
   @java.lang.Override
   protected com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
       internalGetFieldAccessorTable() {
-    return com.proto.Fan.Fan.internal_static_Fan_GetSpeedRequest_fieldAccessorTable
+    return com.proto.Fan.Fan.internal_static_GetSpeedRequest_fieldAccessorTable
         .ensureFieldAccessorsInitialized(
             com.proto.Fan.GetSpeedRequest.class, com.proto.Fan.GetSpeedRequest.Builder.class);
   }
@@ -272,21 +272,21 @@ private static final long serialVersionUID = 0L;
     return builder;
   }
   /**
-   * Protobuf type {@code Fan.GetSpeedRequest}
+   * Protobuf type {@code GetSpeedRequest}
    */
   public static final class Builder extends
       com.google.protobuf.GeneratedMessageV3.Builder<Builder> implements
-      // @@protoc_insertion_point(builder_implements:Fan.GetSpeedRequest)
+      // @@protoc_insertion_point(builder_implements:GetSpeedRequest)
       com.proto.Fan.GetSpeedRequestOrBuilder {
     public static final com.google.protobuf.Descriptors.Descriptor
         getDescriptor() {
-      return com.proto.Fan.Fan.internal_static_Fan_GetSpeedRequest_descriptor;
+      return com.proto.Fan.Fan.internal_static_GetSpeedRequest_descriptor;
     }
 
     @java.lang.Override
     protected com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
         internalGetFieldAccessorTable() {
-      return com.proto.Fan.Fan.internal_static_Fan_GetSpeedRequest_fieldAccessorTable
+      return com.proto.Fan.Fan.internal_static_GetSpeedRequest_fieldAccessorTable
           .ensureFieldAccessorsInitialized(
               com.proto.Fan.GetSpeedRequest.class, com.proto.Fan.GetSpeedRequest.Builder.class);
     }
@@ -319,7 +319,7 @@ private static final long serialVersionUID = 0L;
     @java.lang.Override
     public com.google.protobuf.Descriptors.Descriptor
         getDescriptorForType() {
-      return com.proto.Fan.Fan.internal_static_Fan_GetSpeedRequest_descriptor;
+      return com.proto.Fan.Fan.internal_static_GetSpeedRequest_descriptor;
     }
 
     @java.lang.Override
@@ -488,10 +488,10 @@ private static final long serialVersionUID = 0L;
     }
 
 
-    // @@protoc_insertion_point(builder_scope:Fan.GetSpeedRequest)
+    // @@protoc_insertion_point(builder_scope:GetSpeedRequest)
   }
 
-  // @@protoc_insertion_point(class_scope:Fan.GetSpeedRequest)
+  // @@protoc_insertion_point(class_scope:GetSpeedRequest)
   private static final com.proto.Fan.GetSpeedRequest DEFAULT_INSTANCE;
   static {
     DEFAULT_INSTANCE = new com.proto.Fan.GetSpeedRequest();

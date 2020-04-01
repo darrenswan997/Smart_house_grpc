@@ -4,11 +4,11 @@
 package com.proto.Fan;
 
 /**
- * Protobuf type {@code Fan.FanInfo}
+ * Protobuf type {@code FanInfo}
  */
 public  final class FanInfo extends
     com.google.protobuf.GeneratedMessageV3 implements
-    // @@protoc_insertion_point(message_implements:Fan.FanInfo)
+    // @@protoc_insertion_point(message_implements:FanInfo)
     FanInfoOrBuilder {
 private static final long serialVersionUID = 0L;
   // Use FanInfo.newBuilder() to construct.
@@ -89,13 +89,13 @@ private static final long serialVersionUID = 0L;
   }
   public static final com.google.protobuf.Descriptors.Descriptor
       getDescriptor() {
-    return com.proto.Fan.Fan.internal_static_Fan_FanInfo_descriptor;
+    return com.proto.Fan.Fan.internal_static_FanInfo_descriptor;
   }
 
   @java.lang.Override
   protected com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
       internalGetFieldAccessorTable() {
-    return com.proto.Fan.Fan.internal_static_Fan_FanInfo_fieldAccessorTable
+    return com.proto.Fan.Fan.internal_static_FanInfo_fieldAccessorTable
         .ensureFieldAccessorsInitialized(
             com.proto.Fan.FanInfo.class, com.proto.Fan.FanInfo.Builder.class);
   }
@@ -374,21 +374,21 @@ private static final long serialVersionUID = 0L;
     return builder;
   }
   /**
-   * Protobuf type {@code Fan.FanInfo}
+   * Protobuf type {@code FanInfo}
    */
   public static final class Builder extends
       com.google.protobuf.GeneratedMessageV3.Builder<Builder> implements
-      // @@protoc_insertion_point(builder_implements:Fan.FanInfo)
+      // @@protoc_insertion_point(builder_implements:FanInfo)
       com.proto.Fan.FanInfoOrBuilder {
     public static final com.google.protobuf.Descriptors.Descriptor
         getDescriptor() {
-      return com.proto.Fan.Fan.internal_static_Fan_FanInfo_descriptor;
+      return com.proto.Fan.Fan.internal_static_FanInfo_descriptor;
     }
 
     @java.lang.Override
     protected com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
         internalGetFieldAccessorTable() {
-      return com.proto.Fan.Fan.internal_static_Fan_FanInfo_fieldAccessorTable
+      return com.proto.Fan.Fan.internal_static_FanInfo_fieldAccessorTable
           .ensureFieldAccessorsInitialized(
               com.proto.Fan.FanInfo.class, com.proto.Fan.FanInfo.Builder.class);
     }
@@ -425,7 +425,7 @@ private static final long serialVersionUID = 0L;
     @java.lang.Override
     public com.google.protobuf.Descriptors.Descriptor
         getDescriptorForType() {
-      return com.proto.Fan.Fan.internal_static_Fan_FanInfo_descriptor;
+      return com.proto.Fan.Fan.internal_static_FanInfo_descriptor;
     }
 
     @java.lang.Override
@@ -742,10 +742,10 @@ private static final long serialVersionUID = 0L;
     }
 
 
-    // @@protoc_insertion_point(builder_scope:Fan.FanInfo)
+    // @@protoc_insertion_point(builder_scope:FanInfo)
   }
 
-  // @@protoc_insertion_point(class_scope:Fan.FanInfo)
+  // @@protoc_insertion_point(class_scope:FanInfo)
   private static final com.proto.Fan.FanInfo DEFAULT_INSTANCE;
   static {
     DEFAULT_INSTANCE = new com.proto.Fan.FanInfo();

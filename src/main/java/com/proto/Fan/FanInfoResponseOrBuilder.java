@@ -4,19 +4,19 @@
 package com.proto.Fan;
 
 public interface FanInfoResponseOrBuilder extends
-    // @@protoc_insertion_point(interface_extends:Fan.FanInfoResponse)
+    // @@protoc_insertion_point(interface_extends:FanInfoResponse)
     com.google.protobuf.MessageOrBuilder {
 
   /**
-   * <code>.Fan.FanInfo faninfo = 1;</code>
+   * <code>.FanInfo faninfo = 1;</code>
    */
   boolean hasFaninfo();
   /**
-   * <code>.Fan.FanInfo faninfo = 1;</code>
+   * <code>.FanInfo faninfo = 1;</code>
    */
   com.proto.Fan.FanInfo getFaninfo();
   /**
-   * <code>.Fan.FanInfo faninfo = 1;</code>
+   * <code>.FanInfo faninfo = 1;</code>
    */
   com.proto.Fan.FanInfoOrBuilder getFaninfoOrBuilder();
 }

@@ -4,11 +4,11 @@
 package com.proto.Fan;
 
 /**
- * Protobuf type {@code Fan.GetDeviceByIdRequest}
+ * Protobuf type {@code GetDeviceByIdRequest}
  */
 public  final class GetDeviceByIdRequest extends
     com.google.protobuf.GeneratedMessageV3 implements
-    // @@protoc_insertion_point(message_implements:Fan.GetDeviceByIdRequest)
+    // @@protoc_insertion_point(message_implements:GetDeviceByIdRequest)
     GetDeviceByIdRequestOrBuilder {
 private static final long serialVersionUID = 0L;
   // Use GetDeviceByIdRequest.newBuilder() to construct.
@@ -69,13 +69,13 @@ private static final long serialVersionUID = 0L;
   }
   public static final com.google.protobuf.Descriptors.Descriptor
       getDescriptor() {
-    return com.proto.Fan.Fan.internal_static_Fan_GetDeviceByIdRequest_descriptor;
+    return com.proto.Fan.Fan.internal_static_GetDeviceByIdRequest_descriptor;
   }
 
   @java.lang.Override
   protected com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
       internalGetFieldAccessorTable() {
-    return com.proto.Fan.Fan.internal_static_Fan_GetDeviceByIdRequest_fieldAccessorTable
+    return com.proto.Fan.Fan.internal_static_GetDeviceByIdRequest_fieldAccessorTable
         .ensureFieldAccessorsInitialized(
             com.proto.Fan.GetDeviceByIdRequest.class, com.proto.Fan.GetDeviceByIdRequest.Builder.class);
   }
@@ -246,21 +246,21 @@ private static final long serialVersionUID = 0L;
     return builder;
   }
   /**
-   * Protobuf type {@code Fan.GetDeviceByIdRequest}
+   * Protobuf type {@code GetDeviceByIdRequest}
    */
   public static final class Builder extends
       com.google.protobuf.GeneratedMessageV3.Builder<Builder> implements
-      // @@protoc_insertion_point(builder_implements:Fan.GetDeviceByIdRequest)
+      // @@protoc_insertion_point(builder_implements:GetDeviceByIdRequest)
       com.proto.Fan.GetDeviceByIdRequestOrBuilder {
     public static final com.google.protobuf.Descriptors.Descriptor
         getDescriptor() {
-      return com.proto.Fan.Fan.internal_static_Fan_GetDeviceByIdRequest_descriptor;
+      return com.proto.Fan.Fan.internal_static_GetDeviceByIdRequest_descriptor;
     }
 
     @java.lang.Override
     protected com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
         internalGetFieldAccessorTable() {
-      return com.proto.Fan.Fan.internal_static_Fan_GetDeviceByIdRequest_fieldAccessorTable
+      return com.proto.Fan.Fan.internal_static_GetDeviceByIdRequest_fieldAccessorTable
           .ensureFieldAccessorsInitialized(
               com.proto.Fan.GetDeviceByIdRequest.class, com.proto.Fan.GetDeviceByIdRequest.Builder.class);
     }
@@ -291,7 +291,7 @@ private static final long serialVersionUID = 0L;
     @java.lang.Override
     public com.google.protobuf.Descriptors.Descriptor
         getDescriptorForType() {
-      return com.proto.Fan.Fan.internal_static_Fan_GetDeviceByIdRequest_descriptor;
+      return com.proto.Fan.Fan.internal_static_GetDeviceByIdRequest_descriptor;
     }
 
     @java.lang.Override
@@ -430,10 +430,10 @@ private static final long serialVersionUID = 0L;
     }
 
 
-    // @@protoc_insertion_point(builder_scope:Fan.GetDeviceByIdRequest)
+    // @@protoc_insertion_point(builder_scope:GetDeviceByIdRequest)
   }
 
-  // @@protoc_insertion_point(class_scope:Fan.GetDeviceByIdRequest)
+  // @@protoc_insertion_point(class_scope:GetDeviceByIdRequest)
   private static final com.proto.Fan.GetDeviceByIdRequest DEFAULT_INSTANCE;
   static {
     DEFAULT_INSTANCE = new com.proto.Fan.GetDeviceByIdRequest();

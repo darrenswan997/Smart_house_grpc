@@ -24,7 +24,7 @@ public final class FanServiceGrpc {
 
   private FanServiceGrpc() {}
 
-  public static final String SERVICE_NAME = "Fan.FanService";
+  public static final String SERVICE_NAME = "FanService";
 
   // Static method descriptors that strictly reflect the proto.
   private static volatile io.grpc.MethodDescriptor<com.proto.Fan.GetDeviceByIdRequest,
@@ -45,7 +45,7 @@ public final class FanServiceGrpc {
               io.grpc.MethodDescriptor.<com.proto.Fan.GetDeviceByIdRequest, com.proto.Fan.FanInfoResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.UNARY)
               .setFullMethodName(generateFullMethodName(
-                  "Fan.FanService", "ShowDeviceStatus"))
+                  "FanService", "ShowDeviceStatus"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
                   com.proto.Fan.GetDeviceByIdRequest.getDefaultInstance()))
@@ -77,7 +77,7 @@ public final class FanServiceGrpc {
               io.grpc.MethodDescriptor.<com.proto.Fan.GetSpeedRequest, com.proto.Fan.FanInfoResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.UNARY)
               .setFullMethodName(generateFullMethodName(
-                  "Fan.FanService", "SetNewTemp"))
+                  "FanService", "SetNewTemp"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
                   com.proto.Fan.GetSpeedRequest.getDefaultInstance()))
@@ -109,7 +109,7 @@ public final class FanServiceGrpc {
               io.grpc.MethodDescriptor.<com.proto.Fan.GetDeviceByIdRequest, com.proto.Fan.FanInfoResponse>newBuilder()
               .setType(io.grpc.MethodDescriptor.MethodType.UNARY)
               .setFullMethodName(generateFullMethodName(
-                  "Fan.FanService", "TurnOffFan"))
+                  "FanService", "TurnOffFan"))
               .setSampledToLocalTracing(true)
               .setRequestMarshaller(io.grpc.protobuf.ProtoUtils.marshaller(
                   com.proto.Fan.GetDeviceByIdRequest.getDefaultInstance()))

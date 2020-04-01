@@ -4,7 +4,7 @@
 package com.proto.Fan;
 
 public interface GetSpeedRequestOrBuilder extends
-    // @@protoc_insertion_point(interface_extends:Fan.GetSpeedRequest)
+    // @@protoc_insertion_point(interface_extends:GetSpeedRequest)
     com.google.protobuf.MessageOrBuilder {
 
   /**

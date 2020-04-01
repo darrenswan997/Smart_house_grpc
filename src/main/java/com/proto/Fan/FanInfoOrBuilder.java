@@ -4,7 +4,7 @@
 package com.proto.Fan;
 
 public interface FanInfoOrBuilder extends
-    // @@protoc_insertion_point(interface_extends:Fan.FanInfo)
+    // @@protoc_insertion_point(interface_extends:FanInfo)
     com.google.protobuf.MessageOrBuilder {
 
   /**

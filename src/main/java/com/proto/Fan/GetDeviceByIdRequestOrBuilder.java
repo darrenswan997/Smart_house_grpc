@@ -4,7 +4,7 @@
 package com.proto.Fan;
 
 public interface GetDeviceByIdRequestOrBuilder extends
-    // @@protoc_insertion_point(interface_extends:Fan.GetDeviceByIdRequest)
+    // @@protoc_insertion_point(interface_extends:GetDeviceByIdRequest)
     com.google.protobuf.MessageOrBuilder {
 
   /**
