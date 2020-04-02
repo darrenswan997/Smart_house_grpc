@@ -8,12 +8,15 @@ com\proto\Fan\GetDeviceByIdRequest$Builder.class
 com\proto\Fan\GetSpeedRequest$Builder.class
 com\proto\Fan\FanInfo$1.class
 com\proto\Fan\FanServiceGrpc$FanServiceBlockingStub.class
+com\proto\Fan\FanClient.class
 com\proto\Fan\FanInfoResponse.class
 com\proto\Fan\GetSpeedRequest$1.class
+com\proto\Fan\FanClient$3.class
 com\proto\Fan\GetSpeedRequestOrBuilder.class
 com\proto\Fan\FanServiceGrpc$FanServiceImplBase.class
 com\proto\Fan\FanServiceGrpc$1.class
 com\proto\Fan\FanInfo.class
+com\proto\Fan\FanClient$1.class
 com\proto\Fan\GetSpeedRequest.class
 com\proto\Fan\FanInfoResponse$1.class
 com\proto\Fan\GetDeviceByIdRequestOrBuilder.class
@@ -25,4 +28,5 @@ com\proto\Fan\Fan.class
 com\proto\Fan\GetDeviceByIdRequest$1.class
 com\proto\Fan\FanServiceGrpc$FanServiceBaseDescriptorSupplier.class
 com\proto\Fan\FanServiceGrpc$FanServiceFileDescriptorSupplier.class
+com\proto\Fan\FanClient$2.class
 com\proto\Fan\FanInfoResponse$Builder.class
