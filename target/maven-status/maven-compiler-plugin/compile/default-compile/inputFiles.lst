@@ -1,5 +1,6 @@
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\grpc\Fan\FanClient.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\HeaterInfoResponseOrBuilder.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Photo\LoadPhotoRequest.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\grpc\Heater\HeatingServer.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\Heating.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\Fan.java
@@ -11,9 +12,12 @@ C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fa
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\grpc\Fan\FanServer.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\GetDeviceByIdRequest.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\GetDeviceByIdRequestOrBuilder.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Photo\PhotoViewResponseOrBuilder.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\grpc\Heater\Heaters.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\FanInfoResponseOrBuilder.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\HeaterToUpdateRequestOrBuilder.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Photo\LoadPhotoRequestOrBuilder.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Photo\Photo.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\grpc\Heater\HeatingClient.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\FanServiceGrpc.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\FanInfo.java
@@ -21,8 +25,12 @@ C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\He
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\HeaterOrBuilder.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\HeaterToUpdateRequest.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\FanInfoOrBuilder.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Photo\PhotoViewResponse.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\GetSpeedRequest.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Photo\PhotoServiceGrpc.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\Heater.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Photo\Photo_Info.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Photo\Photo_InfoOrBuilder.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\HeaterStatusRequestOrBuilder.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\HeaterStatusRequest.java
 C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\GetSpeedRequestOrBuilder.java
