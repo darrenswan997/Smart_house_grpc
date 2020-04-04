@@ -1,11 +1,28 @@
-C:\Users\darre\eclipse-workspace\grpc-project\src\main\java\com\proto\Fan\GetDeviceByIdRequest.java
-C:\Users\darre\eclipse-workspace\grpc-project\src\main\java\com\proto\Fan\GetSpeedRequestOrBuilder.java
-C:\Users\darre\eclipse-workspace\grpc-project\src\main\java\com\proto\Fan\GetSpeedRequest.java
-C:\Users\darre\eclipse-workspace\grpc-project\src\main\java\com\proto\Fan\FanInfo.java
-C:\Users\darre\eclipse-workspace\grpc-project\src\main\java\com\proto\Fan\FanInfoResponseOrBuilder.java
-C:\Users\darre\eclipse-workspace\grpc-project\src\main\java\com\proto\Fan\FanServiceGrpc.java
-C:\Users\darre\eclipse-workspace\grpc-project\src\main\java\com\proto\Fan\Fan.java
-C:\Users\darre\eclipse-workspace\grpc-project\src\main\java\com\proto\Fan\GetDeviceByIdRequestOrBuilder.java
-C:\Users\darre\eclipse-workspace\grpc-project\src\main\java\com\proto\Fan\FanInfoOrBuilder.java
-C:\Users\darre\eclipse-workspace\grpc-project\src\main\java\com\proto\Fan\FanInfoResponse.java
-C:\Users\darre\eclipse-workspace\grpc-project\src\main\java\com\proto\Fan\FanClient.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\grpc\Fan\FanClient.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\HeaterInfoResponseOrBuilder.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\grpc\Heater\HeatingServer.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\Heating.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\Fan.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\grpc\Fan\FanService.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\grpc\Heater\HeatingService.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\HeatingServiceGrpc.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\grpc\Fan\FanInfo.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\FanInfoResponse.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\grpc\Fan\FanServer.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\GetDeviceByIdRequest.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\GetDeviceByIdRequestOrBuilder.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\grpc\Heater\Heaters.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\FanInfoResponseOrBuilder.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\HeaterToUpdateRequestOrBuilder.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\grpc\Heater\HeatingClient.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\FanServiceGrpc.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\FanInfo.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\HeaterInfoResponse.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\HeaterOrBuilder.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\HeaterToUpdateRequest.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\FanInfoOrBuilder.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\GetSpeedRequest.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\Heater.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\HeaterStatusRequestOrBuilder.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Heating\HeaterStatusRequest.java
+C:\Users\darre\Desktop\4th year\distributed systems\project\src\main\java\com\Fan\GetSpeedRequestOrBuilder.java
