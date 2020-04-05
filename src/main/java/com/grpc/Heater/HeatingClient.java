@@ -74,7 +74,7 @@ public class HeatingClient {
 			}
 			
 		});
-		
+		//creating instanse of jbutton
 		JButton offButton = new JButton("Turn off Button");
 		panel.add(offButton);//adding button to the jframe
 		offButton.addActionListener(new ActionListener(){
@@ -152,7 +152,7 @@ public class HeatingClient {
 		}catch (Exception e) {
 			deg = 0;
 		}
-		
+		//if degress from input is between 0-100 set the temp
 		if(deg >=0 && deg < 100) {
 			HeaterToUpdateRequest heater = HeaterToUpdateRequest.newBuilder().setDeviceId(1).setTemp(deg).build();
 	        HeaterInfoResponse server_response = blockingStub.setTemp(heater);
@@ -163,7 +163,7 @@ public class HeatingClient {
 			System.out.println(result);
 	        
 		}
-		else {
+		else { //if not in range give message
             message_text_area.setText("You must enter a valid temperature setting between 0 and 100 degrees");
         }
 		

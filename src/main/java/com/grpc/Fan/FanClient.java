@@ -118,7 +118,7 @@ import com.grpc.Fan.FanClient;
 				temp_s = 0;
 			}
 			
-			if(temp_s >= 1 && temp_s < 3) {
+			if(temp_s >= 1 && temp_s <= 3) {
 				GetSpeedRequest current_fan = GetSpeedRequest.newBuilder().setDeviceId(1).setSpeed(temp_s).build();
 				FanInfoResponse server_response = blockingStub.setSpeed(current_fan);
 				

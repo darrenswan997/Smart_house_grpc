@@ -1,5 +1,7 @@
 package com.grpc.Photo;
 
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.io.FileInputStream;
 
 import javax.swing.ImageIcon;
@@ -26,7 +28,7 @@ public class PhotoClient {
     PhotoServiceGrpc.PhotoServiceStub asynchClient = null;
     JLabel image_label = new JLabel();
     ImageIcon photo_icon = null;
-    String default_file = "C:/PS/Ice.jpg";
+    String default_file = "C:/Users/darre/Desktop/4th year/lion.jpg";
 
     public PhotoClient() {
         run_client();
@@ -62,12 +64,12 @@ public class PhotoClient {
 
                 loadThePhoto();
             }
-        });
+       });
 
         panel.add(image_label);
 
         frame.add(panel);
-        frame.setSize(750,350);//400 width and 500 height
+        frame.setSize(750,350);
         //frame.setLayout(null);//using no layout managers
         frame.setVisible(true);//making the frame visible
 
@@ -141,8 +143,8 @@ public class PhotoClient {
         }
 
         // shutting down channel
-        //System.out.println("Shutting down Photo Client");
-        //channel.shutdown();
+        System.out.println("Shutting down Photo Client");
+        channel.shutdown();
 
 
     }
